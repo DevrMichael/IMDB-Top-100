@@ -1,0 +1,502 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "rank": "1",
+    "id": "tt0111161"
+  },
+  {
+    "title": "The Godfather",
+    "rank": "2",
+    "id": "tt0068646"
+  },
+  {
+    "title": "The Dark Knight",
+    "rank": "3",
+    "id": "tt0071562"
+  },
+  {
+    "title": "The Godfather: Part II",
+    "rank": "4",
+    "id": "tt0110912"
+  },
+  {
+    "title": "12 Angry Men",
+    "rank": "5",
+    "id": "tt0060196"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "rank": "6",
+    "id": "tt0468569"
+  },
+  {
+    "title": "Pulp Fiction",
+    "rank": "7",
+    "id": "tt0050083"
+  },
+  {
+    "title": "Schindler's List",
+    "rank": "8",
+    "id": "tt0108052"
+  },
+  {
+    "title": "Inception",
+    "rank": "9",
+    "id": "tt0167260"
+  },
+  {
+    "title": "Fight Club",
+    "rank": "10",
+    "id": "tt0137523"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "rank": "11",
+    "id": "tt0080684"
+  },
+  {
+    "title": "Forrest Gump",
+    "rank": "12",
+    "id": "tt0120737"
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "rank": "13",
+    "id": "tt0073486"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "rank": "14",
+    "id": "tt1375666"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "rank": "15",
+    "id": "tt0099685"
+  },
+  {
+    "title": "The Matrix",
+    "rank": "16",
+    "id": "tt0076759"
+  },
+  {
+    "title": "Goodfellas",
+    "rank": "17",
+    "id": "tt0047478"
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "rank": "18",
+    "id": "tt0109830"
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "rank": "19",
+    "id": "tt0133093"
+  },
+  {
+    "title": "Parasite",
+    "rank": "20",
+    "id": "tt0167261"
+  },
+  {
+    "title": "Interstellar",
+    "rank": "21",
+    "id": "tt0317248"
+  },
+  {
+    "title": "City of God",
+    "rank": "22",
+    "id": "tt0114369"
+  },
+  {
+    "title": "Spirited Away",
+    "rank": "23",
+    "id": "tt0102926"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "rank": "24",
+    "id": "tt0064116"
+  },
+  {
+    "title": "The Green Mile",
+    "rank": "25",
+    "id": "tt0034583"
+  },
+  {
+    "title": "Life Is Beautiful",
+    "rank": "26",
+    "id": "tt0114814"
+  },
+  {
+    "title": "Se7en",
+    "rank": "27",
+    "id": "tt0082971"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "rank": "28",
+    "id": "tt0047396"
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "rank": "29",
+    "id": "tt0038650"
+  },
+  {
+    "title": "Hara-Kiri",
+    "rank": "30",
+    "id": "tt0054215"
+  },
+  {
+    "title": "Seven Samurai",
+    "rank": "31",
+    "id": "tt0110413"
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "rank": "32",
+    "id": "tt0043014"
+  },
+  {
+    "title": "Whiplash",
+    "rank": "33",
+    "id": "tt0120586"
+  },
+  {
+    "title": "The Intouchables",
+    "rank": "34",
+    "id": "tt0078788"
+  },
+  {
+    "title": "The Prestige",
+    "rank": "35",
+    "id": "tt0103064"
+  },
+  {
+    "title": "The Departed",
+    "rank": "36",
+    "id": "tt0120815"
+  },
+  {
+    "title": "The Pianist",
+    "rank": "37",
+    "id": "tt0209144"
+  },
+  {
+    "title": "Gladiator",
+    "rank": "38",
+    "id": "tt0021749"
+  },
+  {
+    "title": "American History X",
+    "rank": "39",
+    "id": "tt0057012"
+  },
+  {
+    "title": "The Usual Suspects",
+    "rank": "40",
+    "id": "tt0078748"
+  },
+  {
+    "title": "Lèon: The Professional",
+    "rank": "41",
+    "id": "tt0027977"
+  },
+  {
+    "title": "The Lion King",
+    "rank": "42",
+    "id": "tt0245429"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "rank": "43",
+    "id": "tt0053125"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "rank": "44",
+    "id": "tt0088763"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "rank": "45",
+    "id": "tt0118799"
+  },
+  {
+    "title": "Back to the Future",
+    "rank": "46",
+    "id": "tt0081505"
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "rank": "47",
+    "id": "tt0253474"
+  },
+  {
+    "title": "Psycho",
+    "rank": "48",
+    "id": "tt0033467"
+  },
+  {
+    "title": "Rear Window",
+    "rank": "49",
+    "id": "tt0407887"
+  },
+  {
+    "title": "Casablanca",
+    "rank": "50",
+    "id": "tt0022100"
+  },
+  {
+    "title": "Modern Times",
+    "rank": "51",
+    "id": "tt0050825"
+  },
+  {
+    "title": "City Lights",
+    "rank": "52",
+    "id": "tt0052357"
+  },
+  {
+    "title": "Hamilton",
+    "rank": "53",
+    "id": "tt1853728"
+  },
+  {
+    "title": "Capernaum",
+    "rank": "54",
+    "id": "tt0036775"
+  },
+  {
+    "title": "Joker",
+    "rank": "55",
+    "id": "tt1345836"
+  },
+  {
+    "title": "Your Name.",
+    "rank": "56",
+    "id": "tt0090605"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "rank": "57",
+    "id": "tt0075314"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "rank": "58",
+    "id": "tt0169547"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "rank": "59",
+    "id": "tt0120689"
+  },
+  {
+    "title": "Coco",
+    "rank": "60",
+    "id": "tt0172495"
+  },
+  {
+    "title": "Django Unchained",
+    "rank": "61",
+    "id": "tt1675434"
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "rank": "62",
+    "id": "tt0910970"
+  },
+  {
+    "title": "3 Idiots",
+    "rank": "63",
+    "id": "tt0405094"
+  },
+  {
+    "title": "Like Stars on Earth",
+    "rank": "64",
+    "id": "tt0435761"
+  },
+  {
+    "title": "WALL-E",
+    "rank": "65",
+    "id": "tt0032553"
+  },
+  {
+    "title": "The Lives of Others",
+    "rank": "66",
+    "id": "tt0482571"
+  },
+  {
+    "title": "Oldboy",
+    "rank": "67",
+    "id": "tt0066921"
+  },
+  {
+    "title": "Memento",
+    "rank": "68",
+    "id": "tt0056172"
+  },
+  {
+    "title": "Princeess Mononoke",
+    "rank": "69",
+    "id": "tt0211915"
+  },
+  {
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "rank": "70",
+    "id": "tt0056592"
+  },
+  {
+    "title": "The Shining",
+    "rank": "71",
+    "id": "tt0105236"
+  },
+  {
+    "title": "Apocalypse Now",
+    "rank": "72",
+    "id": "tt0082096"
+  },
+  {
+    "title": "Alien",
+    "rank": "73",
+    "id": "tt0110357"
+  },
+  {
+    "title": "High and Low",
+    "rank": "74",
+    "id": "tt0095765"
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "rank": "75",
+    "id": "tt0086190"
+  },
+  {
+    "title": "Witness for the Prosecution",
+    "rank": "76",
+    "id": "tt0040897"
+  },
+  {
+    "title": "Paths of Glory",
+    "rank": "77",
+    "id": "tt0041959"
+  },
+  {
+    "title": "Sunset Blvd.",
+    "rank": "78",
+    "id": "tt0087843"
+  },
+  {
+    "title": "The Great Dictator",
+    "rank": "79",
+    "id": "tt0180093"
+  },
+  {
+    "title": "The Hunt",
+    "rank": "80",
+    "id": "tt0338013"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "rank": "81",
+    "id": "tt0093058"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "rank": "82",
+    "id": "tt0364569"
+  },
+  {
+    "title": "Requiem for a Dream",
+    "rank": "83",
+    "id": "tt0112573"
+  },
+  {
+    "title": "American Beauty",
+    "rank": "84",
+    "id": "tt0119488"
+  },
+  {
+    "title": "Good Will Hunting",
+    "rank": "85",
+    "id": "tt0040522"
+  },
+  {
+    "title": "Toy Story",
+    "rank": "86",
+    "id": "tt0071315"
+  },
+  {
+    "title": "Braveheart",
+    "rank": "87",
+    "id": "tt0045152"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "rank": "88",
+    "id": "tt0119698"
+  },
+  {
+    "title": "Come and See",
+    "rank": "89",
+    "id": "tt0071853"
+  },
+  {
+    "title": "Aliens",
+    "rank": "90",
+    "id": "tt0017136"
+  },
+  {
+    "title": "Once Upon a Time in America",
+    "rank": "91",
+    "id": "tt0042876"
+  },
+  {
+    "title": "Amadeus",
+    "rank": "92",
+    "id": "tt0053291"
+  },
+  {
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "rank": "93",
+    "id": "tt0086879"
+  },
+  {
+    "title": "Das Boot",
+    "rank": "94",
+    "id": "tt0062622"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "rank": "95",
+    "id": "tt0042192"
+  },
+  {
+    "title": "North by Northwest",
+    "rank": "96",
+    "id": "tt0051201"
+  },
+  {
+    "title": "Vertigo",
+    "rank": "97",
+    "id": "tt0070735"
+  },
+  {
+    "title": "Singin' in the Rain",
+    "rank": "98",
+    "id": "tt0053604"
+  },
+  {
+    "title": "Citizen Kane",
+    "rank": "99",
+    "id": "tt0095327"
+  },
+  {
+    "title": "M",
+    "rank": "100",
+    "id": "tt0097576"
+  }
+]
